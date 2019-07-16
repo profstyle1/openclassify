@@ -71,7 +71,11 @@
         "anomaly/wysiwyg_block-extension": "~1.0.0",
         "guzzlehttp/guzzle": "~6.3.3",
         "ammadeuss/laravel-html-dom-parser": "^1.1",
-        "visiosoft/subscriptions-module": "^1.0"
+        "visiosoft/subscriptions-module": "^1.0",
+        "visiosoft/orders-module": "^1.0",
+        "visiosoft/notifications-module": "^1.0",
+        "visiosoft/site_method_jenkins-module": "^1.0",
+        "barryvdh/laravel-cors": "^0.11.3"
     },
     "require-dev": {
         "filp/whoops": "~2.0",
