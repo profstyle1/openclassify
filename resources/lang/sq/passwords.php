@@ -13,10 +13,10 @@ return [
     |
     */
 
-    'password' => 'Passwords must be at least six characters and match the confirmation.',
-    'reset' => 'Your password has been reset!',
-    'sent' => 'We have e-mailed your password reset link!',
-    'token' => 'This password reset token is invalid.',
-    'user' => "We can't find a user with that e-mail address.",
+    'password' => 'Fjalëkalimet duhet të jenë të paktën gjashtë karaktere dhe të përputhen me konfirmimin.',
+    'reset' => 'Fjalëkalimi juaj është rivendosur!',
+    'sent' => 'Ne kemi dërguar me postë elektronike lidhjen për rivendosjen e fjalëkalimit tuaj!',
+    'token' => 'Kjo shenjë e rivendosjes së fjalëkalimit është e pavlefshme.',
+    'user' => "Ne nuk mund të gjejmë një përdorues me atë adresë e-mail.",
 
 ];
