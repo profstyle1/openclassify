@@ -61,7 +61,7 @@ return [
     ],
     'not_in'               => 'Seçili :attribute geçersiz.',
     'numeric'              => ':attribute sayı olmalıdır.',
-    'present'              => 'The :attribute field must be present.',
+    'present'              => ': Attribute alanı mevcut olmalıdır.',
     'regex'                => ':attribute biçimi geçersiz.',
     'required'             => ':attribute alanı gereklidir.',
     'required_if'          => ':attribute alanı, :other :value değerine sahip olduğunda zorunludur.',
