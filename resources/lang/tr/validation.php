@@ -9,7 +9,7 @@ return [
     |
     | The following language lines contain the default error messages used by
     | the validator class. Some of these rules have multiple versions such
-    | such as the size rules. Feel free to tweak each of these messages.
+    | as the size rules. Feel free to tweak each of these messages here.
     |
     */
 
@@ -61,7 +61,7 @@ return [
     ],
     'not_in'               => 'Seçili :attribute geçersiz.',
     'numeric'              => ':attribute sayı olmalıdır.',
-    'present'              => 'The :attribute field must be present.',
+    'present'              => ': Attribute alanı mevcut olmalıdır.',
     'regex'                => ':attribute biçimi geçersiz.',
     'required'             => ':attribute alanı gereklidir.',
     'required_if'          => ':attribute alanı, :other :value değerine sahip olduğunda zorunludur.',
