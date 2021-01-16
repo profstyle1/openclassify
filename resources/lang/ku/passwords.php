@@ -13,10 +13,10 @@ return [
     |
     */
 
-    'password' => 'Passwords must be at least six characters and match the confirmation.',
-    'reset' => 'Your password has been reset!',
-    'sent' => 'We have e-mailed your password reset link!',
-    'token' => 'This password reset token is invalid.',
-    'user' => "We can't find a user with that e-mail address.",
+    'password' => 'Divê şîfre herî kêm şeş tîp bin û bi pejirandinê re li hev bikin.',
+    'reset' => 'Passwordîfreya we hate nûve kirin!',
+    'sent' => 'Me zencîreya şîfreya we ji e-nameyê re şand!',
+    'token' => 'Ev nîşana vesazkirina şîfreyê nederbasdar e.',
+    'user' => "Em nikarin bi wê navnîşana e-name bikarhênerek bibînin.",
 
 ];
