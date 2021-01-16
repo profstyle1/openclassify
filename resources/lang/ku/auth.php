@@ -13,7 +13,7 @@ return [
     |
     */
 
-    'failed' => 'These credentials do not match our records.',
-    'throttle' => 'Too many login attempts. Please try again in :seconds seconds.',
+    'failed' => 'Van bawername bi tomarên me re li hev nakin.',
+    'throttle' => 'Hewldanên têketinê pir in. Ji kerema xwe careke din biceribînin: çirkeyên çirk.',
 
 ];
